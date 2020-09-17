@@ -43,7 +43,7 @@ parser.add_argument('--lr', type=float, default=1e-3, help='Applies to sgd and a
 parser.add_argument('--Exact_Match', default=False, help='Exact Match or Partial Match.')
 parser.add_argument('--max_grad_norm', type=float, default=5.0, help='Gradient clipping.')
 parser.add_argument('--num_epoch', type=int, default=200, help='Number of total training epochs.')
-parser.add_argument('--early_stop', type=int, default=20)
+parser.add_argument('--early_stop', type=int, default=30)
 parser.add_argument('--batch_size', type=int, default=50, help='Training batch size.')
 parser.add_argument('--log', type=str, default='logs.txt', help='Write training log to file.')
 parser.add_argument('--save_dir', type=str, default='./saved_models', help='Root dir for saving models.')
