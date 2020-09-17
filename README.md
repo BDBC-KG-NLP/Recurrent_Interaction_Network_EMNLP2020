@@ -1,6 +1,6 @@
 ## Recurrent Interaction Network for Jointly Extracting Entities and Classifying Relations
 
-Dataset and code for the paper: **Recurrent Interaction Network for Jointly Extracting Entities and Classifying Relations**. Kai Sun, [Richong Zhang](http://act.buaa.edu.cn/zhangrc/), Samuel Mensah, Yongyi Mao, Xudong Liu. EMNLP 2019. [[pdf]](EMNLP2020_Kai_Sun_Rel.pdf)
+Dataset and code for the paper: **Recurrent Interaction Network for Jointly Extracting Entities and Classifying Relations**. Kai Sun, [Richong Zhang](http://act.buaa.edu.cn/zhangrc/), Samuel Mensah, Yongyi Mao, Xudong Liu. EMNLP 2020. [[pdf]](EMNLP2020_Kai_Sun_Rel.pdf)
 
 ## Overview
 
