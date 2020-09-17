@@ -7,7 +7,7 @@ Dataset and code for the paper: **Recurrent Interaction Network for Jointly Extr
 - Python 3.6.7
 - PyTorch 1.2.0
 - NumPy 1.17.2
-- 100-dimensional word vectors for nyt and webnlg [here](https://github.com/xiangrongzeng/copy_re)
+- 100-dimensional word vectors for nyt and webnlg [here](https://github.com/xiangrongzeng/copy_re).
 - GloVe pre-trained word vectors for nyt10 and nyt11:
   - Download pre-trained word vectors [here](https://github.com/stanfordnlp/GloVe#download-pre-trained-word-vectors).
   - Extract the [glove.840B.300d.zip](http://nlp.stanford.edu/data/wordvecs/glove.840B.300d.zip) to the `dataset/glove/` folder.
